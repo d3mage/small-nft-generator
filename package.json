@@ -1,0 +1,22 @@
+{
+  "name": "d3mage-nfts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-hash": "^2.0.1",
+    "dotenv": "^16.0.0",
+    "fs": "^0.0.1-security",
+    "jimp": "^0.16.1",
+    "mime": "^3.0.0",
+    "nft.storage": "^6.1.0",
+    "path": "^0.12.7",
+    "random-js": "^2.1.0"
+  }
+}
